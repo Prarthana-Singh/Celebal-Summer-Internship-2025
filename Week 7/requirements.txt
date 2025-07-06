@@ -1,0 +1,9 @@
+jupyter~=1.1.1
+pip~=25.0
+attrs~=23.2.0
+wheel~=0.43.0
+pillow~=10.3.0
+streamlit~=1.36.0
+numpy~=1.26.4
+pandas~=2.2.3
+scikit-learn==1.4.2
